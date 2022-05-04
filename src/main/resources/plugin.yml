@@ -1,0 +1,5 @@
+name: BlockRegen
+version: '${project.version}'
+main: com.gmail.hankwu0501.blockregen.BlockRegen
+api-version: 1.13
+authors: [ hankwu0501, shin ]
